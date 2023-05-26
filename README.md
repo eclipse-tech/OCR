@@ -10,5 +10,16 @@ The focus of this project is on automating the material purchase order processin
  
 By implementing an OCR technology solution, we can eliminate the need for manual intervention and automate the material purchase order processing. The system will be able to read the material purchase order directly from the image, eliminating the need for manual input. 
  
-In conclusion, the objective of this project is to leverage OCR technology to automate the material purchase order processing. This report will explore the benefits of OCR technology, the technical aspects of the solution, and the potential challenges that may arise during the implementation process. By implementing an OCR solution, we can significantly improve efficiency, accuracy, and reduce costs in the procurement process." 
+In conclusion, the objective of this project is to leverage OCR technology to automate the material purchase order processing. This report will explore the benefits of OCR technology, the technical aspects of the solution, and the potential challenges that may arise during the implementation process. By implementing an OCR solution, we can significantly improve efficiency, accuracy, and reduce costs in the procurement process.
+
+
+Steps to execute the OCR:
+- Run "First.py", the output will be Output.json
+- Run "Second.py", the output will be Output1.json
+- Run "Third.py" to get the final OCR Oytput.
+
+Input files are
+- 1.json
+- 2.json
+- 3.json
  
